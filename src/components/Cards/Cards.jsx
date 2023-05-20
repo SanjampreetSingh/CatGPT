@@ -7,13 +7,13 @@ export default function Cards() {
         </h2>
         <ul className="m-auto flex w-full flex-col gap-3.5 sm:max-w-md">
           <button className="w-full rounded-md bg-gray-50 p-3 hover:bg-gray-200 dark:bg-white/5 dark:hover:bg-gray-900">
-            "Explain quantum computing in simple terms" →
+            &quot;Explain quantum computing in simple terms&quot; →
           </button>
           <button className="w-full rounded-md bg-gray-50 p-3 hover:bg-gray-200 dark:bg-white/5 dark:hover:bg-gray-900">
-            "Got any creative ideas for a 10 year old’s birthday?" →
+            &quot;Got any creative ideas for a 10 year old&apos;s birthday?&quot; →
           </button>
           <button className="w-full rounded-md bg-gray-50 p-3 hover:bg-gray-200 dark:bg-white/5 dark:hover:bg-gray-900">
-            "How do I make an HTTP request in Javascript?" →
+            &quot;How do I make an HTTP request in JavaScript?&quot; →
           </button>
         </ul>
       </div>
