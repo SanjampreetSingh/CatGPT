@@ -24,7 +24,7 @@ export default function Sidebar() {
                           style={{ opacity: 1 }}
                         >
                           <h3 className="h-9 overflow-hidden text-ellipsis break-all  px-3 pb-2 pt-3 text-xs font-medium text-gray-500">
-                            Date
+                            Your chats
                           </h3>
                         </div>
                         <ol>
